@@ -1,4 +1,4 @@
-#Monsters Rolodex
+## Monsters Rolodex
 
 A simple react 'codealong' project. Code provided by Yihua Zhang.<br>
 
